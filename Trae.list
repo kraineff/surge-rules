@@ -1,5 +1,9 @@
-PROCESS-NAME,/Applications/Trae.app/Contents/MacOS/Electron #!MACOS-ONLY
-PROCESS-NAME,"/Applications/Trae.app/Contents/Frameworks/Trae Helper.app/Contents/MacOS/Trae Helper" #!MACOS-ONLY
-PROCESS-NAME,"/Applications/Trae.app/Contents/Frameworks/Trae Helper (Plugin).app/Contents/MacOS/Trae Helper (Plugin)" #!MACOS-ONLY
-PROCESS-NAME,/Applications/Trae.app/Contents/Resources/app/modules/ai/ #!MACOS-ONLY
-PROCESS-NAME,/Applications/Trae.app/Contents/Resources/app/modules/ai-agent/ai-agent #!MACOS-ONLY
+# Trae
+DOMAIN-SUFFIX,trae.ai
+DOMAIN-SUFFIX,byteoversea.com
+
+# Trae API/CDN
+DOMAIN-SUFFIX,api.marscode.cn
+DOMAIN-SUFFIX,byteintlapi.com
+DOMAIN-SUFFIX,mchost.guru
+DOMAIN-SUFFIX,zijieapi.com
