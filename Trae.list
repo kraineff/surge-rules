@@ -1,0 +1,5 @@
+PROCESS-NAME,/Applications/Trae.app/Contents/MacOS/Electron
+PROCESS-NAME,"/Applications/Trae.app/Contents/Frameworks/Trae Helper.app/Contents/MacOS/Trae Helper"
+PROCESS-NAME,"/Applications/Trae.app/Contents/Frameworks/Trae Helper (Plugin).app/Contents/MacOS/Trae Helper (Plugin)"
+PROCESS-NAME,/Applications/Trae.app/Contents/Resources/app/modules/ai/
+PROCESS-NAME,/Applications/Trae.app/Contents/Resources/app/modules/ai-agent/ai-agent
